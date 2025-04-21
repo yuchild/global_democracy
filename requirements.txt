@@ -1,0 +1,6 @@
+geopandas
+ipykernel
+jupyter
+matplotlib
+pandas
+streamlit
